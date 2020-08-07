@@ -19,3 +19,14 @@ flutter:
   assets:
     - assets/
 ```
+
+### The project runs on the code only from the following files:
+```
+main.dart
+ui/
+  local_music.dart
+  remote_music.dart
+  local_vid.dart
+  remote_vid.dart
+```
+### Rest can be ignored.
